@@ -2,7 +2,7 @@
 
 A dashboard with statistics for booking and reservation of cabins, From my journey of the react course
 
-### https://thewildoasis-mohannad.netlify.app/login
+### https://thewildoasis-mohannad.vercel.app/
 
 ## Tools / Libraries
 
