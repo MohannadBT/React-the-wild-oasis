@@ -4,6 +4,18 @@ A dashboard with statistics for booking and reservation of cabins, From my journ
 
 ### https://thewildoasis-mohannad.netlify.app/login
 
+## Tools / Libraries
+
+React query
+React hooks
+React router
+Data FNS
+React error Boundary
+React toast
+React icons
+Recharts
+Styled components
+
 ## Overview
 
 #### Dark mode
