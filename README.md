@@ -6,15 +6,14 @@ A dashboard with statistics for booking and reservation of cabins, From my journ
 
 ## Tools / Libraries
 
-- React query
-- React hooks
-- React router
-- Data FNS
-- React error Boundary
-- React toast
-- React icons
-- Recharts
-- Styled components
+- [React query](https://tanstack.com/query/latest)
+- [React router](https://reactrouter.com/home)
+- [Date FNS](https://date-fns.org/)
+- [React error Boundary](https://www.npmjs.com/package/react-error-boundary)
+- [React toast](https://react-hot-toast.com/)
+- [React icons](https://react-icons.github.io/react-icons/)
+- [Recharts](https://recharts.org/en-US/)
+- [Styled components](https://styled-components.com/)
 
 ## Overview
 
