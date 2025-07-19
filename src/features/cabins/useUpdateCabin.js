@@ -5,6 +5,7 @@ import { createEditCabin } from "../../services/apiCabins";
 
 export function useUpdateCabin() {
   const queryClient = useQueryClient();
+
   const { mutate: editCabin, isLoading: isUpdating } = useMutation({
     mutationFn: ({ newCabinData, id }) => createEditCabin(newCabinData, id),
     onSuccess: () => {
