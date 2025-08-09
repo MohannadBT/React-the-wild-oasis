@@ -2,6 +2,9 @@
 
 A dashboard with statistics for booking and reservation of cabins, From my journey of the react course
 
+Username: testuser39876@gmail.com
+password: Testuser13579))
+
 ### https://thewildoasis-mohannad.vercel.app/
 
 ## Tools / Libraries
